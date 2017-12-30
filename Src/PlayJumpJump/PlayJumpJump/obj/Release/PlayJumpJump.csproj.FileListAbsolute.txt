@@ -1,0 +1,8 @@
+F:\Mine\Program\C#\Projects\PlayJumpJump\PlayJumpJump\bin\Release\PlayJumpJump.exe
+F:\Mine\Program\C#\Projects\PlayJumpJump\PlayJumpJump\bin\Release\PlayJumpJump.pdb
+F:\Mine\Program\C#\Projects\PlayJumpJump\PlayJumpJump\obj\Release\PlayJumpJump.Form1.resources
+F:\Mine\Program\C#\Projects\PlayJumpJump\PlayJumpJump\obj\Release\PlayJumpJump.Properties.Resources.resources
+F:\Mine\Program\C#\Projects\PlayJumpJump\PlayJumpJump\obj\Release\PlayJumpJump.csproj.GenerateResource.Cache
+F:\Mine\Program\C#\Projects\PlayJumpJump\PlayJumpJump\obj\Release\PlayJumpJump.exe
+F:\Mine\Program\C#\Projects\PlayJumpJump\PlayJumpJump\obj\Release\PlayJumpJump.pdb
+F:\Mine\Program\C#\Projects\PlayJumpJump\PlayJumpJump\obj\Release\PlayJumpJump.csprojResolveAssemblyReference.cache
